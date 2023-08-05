@@ -1,1 +1,1 @@
-# Installtion Scripts for different Tools & Services.
+# Installation Scripts for different Tools
